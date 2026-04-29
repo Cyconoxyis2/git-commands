@@ -1,6 +1,6 @@
 # clone
 - checkout
--b
+  - -b
 
 status
 
